@@ -13,7 +13,7 @@ const navLinks = [
   { label: "Contact", href: "#contact" },
 ];
 
-const RESUME_URL = "https://drive.google.com/file/d/1-0FKc64TAPEW374N6VuqXEsHNr-YlX80/view?usp=drive_link";
+const RESUME_URL = "https://drive.google.com/file/d/1-esDn-lZHnxl0rA0IN3-DWk3RPCw36Z8/view?usp=drive_link";
 
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
