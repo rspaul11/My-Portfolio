@@ -16,7 +16,7 @@ const highlights = [
 const quickFacts = [
   { icon: Trophy, text: "Hackathon Winner — TechSprint 2025" },
   { icon: Monitor, text: "100+ Frontend Projects Built" },
-  { icon: BookOpen, text: "B.Tech CSE — CGPA 8.49/10" },
+  { icon: BookOpen, text: "B.Tech CSE — CGPA 8.34/10" },
   { icon: Target, text: "371+ GitHub Contributions (Last Year)" },
 ];
 
