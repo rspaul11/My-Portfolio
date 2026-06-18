@@ -57,7 +57,7 @@ const Education = () => (
               <Award size={20} className="text-accent" />
               <div>
                 <p className="text-xs text-muted-foreground">Current CGPA</p>
-                <p className="font-display font-bold text-xl gradient-text inline-block">8.49 / 10</p>
+                <p className="font-display font-bold text-xl gradient-text inline-block">8.34 / 10</p>
               </div>
             </motion.div>
 
