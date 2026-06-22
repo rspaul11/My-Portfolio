@@ -152,7 +152,7 @@ const Hero = () => {
               transition={{ type: "spring", stiffness: 200 }}
             >
               <img
-                src="https://image2url.com/r2/default/images/1773507032694-0acfd840-4361-4e92-bc3f-ace816200662.jpeg"
+                src="https://www.image2url.com/r2/default/images/1782108847913-68da5750-1904-4d9a-b403-daba965380b6.jpeg"
                 alt="Rajsekhar Paul"
                 className="w-full h-full rounded-full object-cover border-2 border-border/50"
               />
